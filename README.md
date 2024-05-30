@@ -13,10 +13,10 @@ A web-based real-time chat application built with HTML, CSS, and JavaScript for 
 - **Real-Time Communication**: Socket.io
 
 ## Installation
-1. Clone the repository:
+1.Clone the repository:
    ```bash
    git clone https://github.com/aagammm/Real-Time-chat.git
-
+   ```
 2.Navigate to the project directory:
    ```bash
    cd Real-Time-chat
